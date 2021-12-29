@@ -23,19 +23,40 @@ export default {
                     <li class="list-inline-item my-2">
                         <ul class="list-inline mb-0">
                             <li class="list-inline-item">
-                                <a class="reset-anchor" href="#"> <i class="fab fa-facebook-f"></i></a>
+                                <a 
+                                    class="reset-anchor" 
+                                    href="https://www.instagram.com/mariaescribe/" 
+                                    target="blank"
+                                >
+                                    <i class="fab fa-instagram"></i>
+                                </a>
                             </li>
                             <li class="list-inline-item">
-                                <a class="reset-anchor" href="#"> <i class="fab fa-twitter"></i></a>
+                                <a 
+                                    class="reset-anchor" 
+                                    href="https://www.linkedin.com/in/mariaescribe/" 
+                                    target="blank"
+                                >
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
                             </li>
                             <li class="list-inline-item">
-                                <a class="reset-anchor" href="#"> <i class="fab fa-instagram"></i></a>
+                                <a 
+                                    class="reset-anchor" 
+                                    href="https://www.behance.net/mariaescribe" 
+                                    target="blank"
+                                >
+                                    <i class="fab fa-behance"></i>
+                                </a>
                             </li>
                             <li class="list-inline-item">
-                                <a class="reset-anchor" href="#"> <i class="fab fa-linkedin-in"></i></a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a class="reset-anchor" href="#"> <i class="fab fa-behance"></i></a>
+                                <a 
+                                    class="reset-anchor" 
+                                    href="https://vm.tiktok.com/ZM83vpCnP/" 
+                                    target="blank"
+                                >
+                                    <i class="fab fa-tiktok"></i>
+                                </a>
                             </li>
                         </ul>
                     </li>
