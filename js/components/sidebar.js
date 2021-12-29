@@ -11,32 +11,46 @@ export default {
             <div class="px-4 py-3">
                 <ul class="list-inline list-social mb-3">
                     <li class="list-inline-item">
-                        <a class="reset-anchor" href="#">
-                            <i class="fab fa-facebook-f"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="reset-anchor" href="#">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="reset-anchor" href="#">
+                        <a 
+                            class="reset-anchor" 
+                            href="https://www.instagram.com/mariaescribe/" 
+                            target="blank"
+                        >
                             <i class="fab fa-instagram"></i>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="reset-anchor" href="#">
+                        <a 
+                            class="reset-anchor" 
+                            href="https://www.linkedin.com/in/mariaescribe/" 
+                            target="blank"
+                        >
                             <i class="fab fa-linkedin"></i>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="reset-anchor" href="#">
-                            <i class="fab fa-dribbble"></i>
+                        <a 
+                            class="reset-anchor" 
+                            href="https://www.behance.net/mariaescribe" 
+                            target="blank"
+                        >
+                            <i class="fab fa-behance"></i>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="reset-anchor" href="#">
+                        <a 
+                            class="reset-anchor" 
+                            href="https://vm.tiktok.com/ZM83vpCnP/" 
+                            target="blank"
+                        >
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a 
+                            class="reset-anchor" 
+                            href="mailto:mariaescribemails@gmail.com"
+                        >
                             <i class="fas fa-envelope"></i>
                         </a>
                     </li>
