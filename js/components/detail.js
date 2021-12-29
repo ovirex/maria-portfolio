@@ -28,6 +28,7 @@ export default {
             images: {
                 web: [],
                 rrss: [],
+                visuals: [],
             },
         },
     }),

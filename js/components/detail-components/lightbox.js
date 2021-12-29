@@ -35,6 +35,20 @@ export default {
                 <!-- End of Loading spinner -->
             </a>
         </div>
+        <div v-if="images.hasOwnProperty('visuals')">
+            <h3>Visuals</h3>
+            <a 
+                v-for="image in images.visuals"
+                :href="image"
+                data-gallery="visuals-gallery"
+                class="glightbox is-loading"
+            >
+                <img class="img-fluid mb-4" :src="image" alt="image" />
+                <!-- Loading spinner -->
+                <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+                <!-- End of Loading spinner -->
+            </a>
+        </div>
     </div>
     `,
     data: () => ({
