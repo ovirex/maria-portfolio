@@ -9,11 +9,6 @@ export default {
     <div class="col-lg-4 col-md-6 grid-item mb-4">
         <div class="listing-item">
             <div class="position-relative">
-                <ul class="list-inline listing-tags m-0">
-                    <li class="list-inline-item">
-                        <router-link class="reset-anchor font-weight-normal text-gray text-small" :to="'/works/' + project.id">Creative</router-link>
-                    </li>
-                </ul>
                 <router-link class="reset-anchor d-block listing-img-holder is-loading" :to="'/works/' + project.id">
                     <!-- Loading spinner -->
                     <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
