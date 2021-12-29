@@ -7,7 +7,7 @@ export default {
     <div>
         <div class="row">
             <div class="col-lg-7">
-                <h1>{{projectData.title}}</h1>
+                <h1 translate="no">{{projectData.title}}</h1>
                 <p class="text-muted mb-5">{{projectData.short_description}}</p>
             </div>
         </div>

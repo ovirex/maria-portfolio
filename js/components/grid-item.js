@@ -24,7 +24,7 @@ export default {
             </div>
             <div class="py-3">
                 <router-link class="reset-anchor" :to="'/works/' + project.id">
-                    <h2 class="h5 listing-item-heading">{{project.title}}</h2>
+                    <h2 class="h5 listing-item-heading" translate="no">{{project.title}}</h2>
                 </router-link>
                 <p class="text-small mb-0 listing-item-description">{{project.short_description}}</p>
             </div>
