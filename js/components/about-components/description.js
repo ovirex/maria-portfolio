@@ -3,7 +3,7 @@ export default {
     <div class="p-5 mb-5 bg-light">
         <div class="row">
             <div class="col-sm-3">
-                <img class="img-fluid img-thumbnail rounded-circle" src="img/about-profile.jpg" alt="">
+                <img class="img-fluid img-thumbnail rounded-circle" src="./img/PERFIL.jpg" alt="">
             </div>
             <div class="col-sm-9">
                 <h1 class="font-weight-normal">Hello! I'm <strong>Jason Doe</strong>. </h1>
