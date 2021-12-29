@@ -5,7 +5,7 @@ export default {
     <div class="sidebar">
         <div class="sidebar-inner d-flex flex-column">
             <div class="px-4 py-5">
-                <router-link to="/" href=""><img src="img/logo.svg" alt="" width="90"></router-link>
+                <router-link to="/" href=""><img src="./img/mylogo.svg" alt="" width="90"></router-link>
             </div>
             <sidebar-menu></sidebar-menu>
             <div class="px-4 py-3">

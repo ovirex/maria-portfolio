@@ -9,7 +9,7 @@ export default {
                     <use xlink:href="#menu-hamburger-1"> </use>
                     </svg>
                 </button>
-                <router-link class="navbar-brand" to="/"><img src="img/logo.svg" alt="" width="50"></router-link>
+                <router-link class="navbar-brand" to="/"><img src="./img/mylogo.svg" alt="" width="50"></router-link>
             </nav>
         </header>
     </div>
