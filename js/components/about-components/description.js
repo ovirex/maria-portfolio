@@ -6,8 +6,8 @@ export default {
                 <img class="img-fluid img-thumbnail rounded-circle" src="./img/PERFIL.jpg" alt="">
             </div>
             <div class="col-sm-9">
-                <h1 class="font-weight-normal">Hello! I'm <strong>Jason Doe</strong>. </h1>
-                <h2 class="h1 font-weight-normal mb-4">I'm a <strong>Developer </strong>and writer.</h2>
+                <h1 class="font-weight-normal">Hello! I'm <strong>María Gabriela Pérez</strong>. </h1>
+                <h2 class="h1 font-weight-normal mb-4">I'm a <strong>Graphic Designer </strong>and Art Director.</h2>
                 <p class="text-muted mb-4">Received overcame oh sensible so at an. Formed do change merely to county it. Am
                 separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland.</p>
                 <p class="text-muted mb-4">Dribbble shots for demo purposes by <a href="https://dribbble.com/juliahanke">Julia
