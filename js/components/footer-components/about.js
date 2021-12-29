@@ -6,14 +6,11 @@ export default {
         tempor.</p>
         <ul class="list-unstyled text-small mb-0 text-white">
             <li class="mb-1">
-                <a class="reset-anchor" href="#"> <i class="fas fa-globe-americas text-muted mr-2 fa-fw"></i>4274
-                Williams Avenue, California.</a>
-            </li>
-            <li class="mb-1">
-                <a class="reset-anchor" href="#"> <i class="fas fa-mobile text-muted mr-2 fa-fw"></i>123-456-789</a>
-            </li>
-            <li class="mb-1">
-                <a class="reset-anchor" href="#"> <i class="fas fa-envelope text-muted mr-2 fa-fw"></i>Jason@example.com</a>
+                <a 
+                    class="reset-anchor" 
+                    href="mailto:mariaescribemails@gmail.com"
+                > <i class="fas fa-envelope text-muted mr-2 fa-fw"></i>mariaescribemails@gmail.com
+                </a>
             </li>
         </ul>
     </div>
