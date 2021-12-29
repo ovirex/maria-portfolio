@@ -10,80 +10,104 @@
                 "Web Design",
                 "Art Direction"
             ],
-            "thumbnail": "./img/soferrara/SF1.jpg",
+            "thumbnail": "./img/SO-FERRARA/RRSS/image1.jpg",
             "images": {
-                "web": [],
+                "web": [
+                    "./img/SO-FERRARA/WEB/image1.jpg"
+                ],
                 "rrss": [
-                    "./img/soferrara/SF1.jpg",
-                    "./img/soferrara/SF2.jpg",
-                    "./img/soferrara/SF3.jpg",
-                    "./img/soferrara/SF4.jpg",
-                    "./img/soferrara/SF5.jpg",
-                    "./img/soferrara/SF6.jpg"
+                    "./img/SO-FERRARA/RRSS/image1.jpg",
+                    "./img/SO-FERRARA/RRSS/image2.jpg",
+                    "./img/SO-FERRARA/RRSS/image3.jpg",
+                    "./img/SO-FERRARA/RRSS/image4.jpg",
+                    "./img/SO-FERRARA/RRSS/image5.jpg"
                 ]
             }
         },
         {
             "id": 1,
-            "title": "So Ferrara 2",
-            "short_description": "A home decor brand for the eccentric and expressive millennial.",
-            "long_description": "From brand conceptualization to visual communication system development. Ferrara’s brand new luxury line for millennial audiences “So Ferrara”, mixes minimalism’s simpleness and cleanness with an expressive and brutalist way of communicating, daring the viewer to express themselves creatively through their home spaces.",
+            "title": "ICON Signed by Ferrara",
+            "short_description": "An elegant and clean identity for an exclusive line.",
+            "long_description": "ICON is the new line from Venezuela’s number one luxury brand: Ferrara. It’s goal is to make you feel iconic while bringing elegance, exclusivity and originality to your home without leaving comfort behind.",
             "tags": [
-                "Social Media Design"
+                "Art Direction"
             ],
-            "thumbnail": "./img/soferrara/SF6.jpg",
+            "thumbnail": "./img/ICON/image1.jpg",
             "images": {
                 "web": [],
                 "rrss": [
-                    "./img/soferrara/SF1.jpg",
-                    "./img/soferrara/SF2.jpg",
-                    "./img/soferrara/SF3.jpg",
-                    "./img/soferrara/SF4.jpg",
-                    "./img/soferrara/SF5.jpg",
-                    "./img/soferrara/SF6.jpg"
+                    "./img/ICON/image1.jpg",
+                    "./img/ICON/image2.jpg",
+                    "./img/ICON/image3.jpg"
                 ]
             }
         },
         {
             "id": 2,
-            "title": "So Ferrara 3",
-            "short_description": "A home decor brand for the eccentric and expressive millennial.",
-            "long_description": "From brand conceptualization to visual communication system development. Ferrara’s brand new luxury line for millennial audiences “So Ferrara”, mixes minimalism’s simpleness and cleanness with an expressive and brutalist way of communicating, daring the viewer to express themselves creatively through their home spaces.",
+            "title": "Tu Amiga Psicóloga",
+            "short_description": "Vibrant and friendly visuals for mental health help.",
+            "long_description": "Tu Amiga Psicóloga is a friendly face that’s looking forward to helping you get through tough times by giving you tools to deal with what troubles your head. Tu Amiga Psicóloga achieves this through simple graphic principles combined with current trends making it fresh and easy to understand.",
             "tags": [
+                "Social Media Design",
                 "Web Design"
             ],
-            "thumbnail": "./img/soferrara/SF2.jpg",
+            "thumbnail": "./img/TAP/RRSS/image1.jpg",
             "images": {
                 "web": [],
                 "rrss": [
-                    "./img/soferrara/SF1.jpg",
-                    "./img/soferrara/SF2.jpg",
-                    "./img/soferrara/SF3.jpg",
-                    "./img/soferrara/SF4.jpg",
-                    "./img/soferrara/SF5.jpg",
-                    "./img/soferrara/SF6.jpg"
+                    "./img/TAP/RRSS/image1.jpg"
                 ]
             }
         },
         {
             "id": 3,
-            "title": "So Ferrara 4",
-            "short_description": "A home decor brand for the eccentric and expressive millennial.",
-            "long_description": "From brand conceptualization to visual communication system development. Ferrara’s brand new luxury line for millennial audiences “So Ferrara”, mixes minimalism’s simpleness and cleanness with an expressive and brutalist way of communicating, daring the viewer to express themselves creatively through their home spaces.",
+            "title": "Café Tentación",
+            "short_description": "A twist to traditions.",
+            "long_description": "Enough with the coffee beans heart photo and the ugly coffee cup, Café Tentación knows coffee can be creative. Everyone can drink coffee whether it's espresso, iced, ice cream, early in the morning or late at night for that all-nighter you gotta pull off. Coffee can be fun.",
             "tags": [
                 "Art Direction"
             ],
-            "thumbnail": "./img/soferrara/SF4.jpg",
+            "thumbnail": "",
             "images": {
                 "web": [],
-                "rrss": [
-                    "./img/soferrara/SF1.jpg",
-                    "./img/soferrara/SF2.jpg",
-                    "./img/soferrara/SF3.jpg",
-                    "./img/soferrara/SF4.jpg",
-                    "./img/soferrara/SF5.jpg",
-                    "./img/soferrara/SF6.jpg"
+                "rrss": []
+            }
+        },
+        {
+            "id": 4,
+            "title": "CUMINEG 2020",
+            "short_description": "Knowledge for younger audiences.",
+            "long_description": "CUMINEG is the event where the greatest in marketing, leadership, entrepreneurship, creativity and sales tell you all their secrets. In past years CUMINEG was mainly targeted to older audiences but with the COVID-19 pandemic it needed to shift. It gathered younger leaders and rebranded itself to what it is today: the place where bright ideas get together.",
+            "tags": [
+                "Social Media Design",
+                "Web Design",
+                "Art Direction"
+            ],
+            "thumbnail": "./img/CUMINEG-2020/image2.jpg",
+            "images": {
+                "web": [],
+                "rrss": [],
+                "visuals": [
+                    "./img/CUMINEG-2020/image2.jpg",
+                    "./img/CUMINEG-2020/image3.jpg",
+                    "./img/CUMINEG-2020/image4.jpg",
+                    "./img/CUMINEG-2020/image5.jpg",
+                    "./img/CUMINEG-2020/image6.jpg"
                 ]
+            }
+        },
+        {
+            "id": 5,
+            "title": "Lord Empanadas",
+            "short_description": "An online selling solution for the best empanadas in Valencia.",
+            "long_description": "Lord Empanadas is always packed with orders at the restaurant so you’ll probably have to wait a lot to get the best empanadas in Valencia. Worth it? Yes, but maybe this time you don’t want to go get in line. That’s why Lord Empanadas needed to automatize their business and help people get their orders faster without going to the restaurant, and during a pandemic? It was a must!",
+            "tags": [
+                "Web Design"
+            ],
+            "thumbnail": "./img/SO-FERRARA/RRSS/image4.jpg",
+            "images": {
+                "web": [],
+                "rrss": []
             }
         }
     ]
