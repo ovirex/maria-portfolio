@@ -53,7 +53,9 @@
             ],
             "thumbnail": "./img/TAP/RRSS/image1.jpg",
             "images": {
-                "web": [],
+                "web": [
+                    "./img/TAP/WEB/image1.jpg"
+                ],
                 "rrss": [
                     "./img/TAP/RRSS/image1.jpg"
                 ]
@@ -83,7 +85,7 @@
                 "Web Design",
                 "Art Direction"
             ],
-            "thumbnail": "./img/CUMINEG-2020/image2.jpg",
+            "thumbnail": "./img/CUMINEG-2020/image6.jpg",
             "images": {
                 "web": [],
                 "rrss": [],
