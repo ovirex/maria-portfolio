@@ -140,3 +140,27 @@ a.glightbox {
         opacity: 0;
     }
 }
+
+/* Contact me Buttons in Details */
+
+.social-share-link.behance:hover {
+    background-color: #053eff;
+    color: #fff;
+}
+.social-share-link.behance:hover i {
+    color: #053eff;
+}
+.social-share-link.linkedin:hover {
+    background-color: #0e76a8;
+    color: #fff;
+}
+.social-share-link.linkedin:hover i {
+    color: #0e76a8;
+}
+.social-share-link.envelope:hover {
+    background-color: #0f9d58;
+    color: #fff;
+}
+.social-share-link.envelope:hover i {
+    color: #0f9d58;
+}

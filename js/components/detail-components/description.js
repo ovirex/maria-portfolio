@@ -21,16 +21,42 @@ export default {
                 </li>
             </ul>
         </div>
-        <h2 class="h3 mb-4">Share</h2>
+        <h2 class="h3 mb-4">Contact Me</h2>
         <ul class="list-inline space-below">
             <li class="list-inline-item">
-                <a class="reset-anchor social-share-link facebook" href="#"><i class="fab fa-facebook-f mr-2"></i>Share</a>
+                <a 
+                    class="reset-anchor social-share-link instagram" 
+                    href="https://www.instagram.com/mariaescribe/" 
+                    target="blank"
+                >
+                    <i class="fab fa-instagram mr-2"></i>Instagram
+                </a>
             </li>
             <li class="list-inline-item">
-                <a class="reset-anchor social-share-link twitter" href="#"><i class="fab fa-twitter mr-2"></i>Tweet</a>
+                <a 
+                    class="reset-anchor social-share-link linkedin" 
+                    href="https://www.linkedin.com/in/mariaescribe/" 
+                    target="blank"
+                >
+                    <i class="fab fa-linkedin mr-2"></i>LinkedIn
+                </a>
             </li>
             <li class="list-inline-item">
-                <a class="reset-anchor social-share-link instagram" href="#"><i class="fab fa-instagram mr-2"></i>Share</a>
+                <a 
+                    class="reset-anchor social-share-link behance" 
+                    href="https://www.behance.net/mariaescribe" 
+                    target="blank"
+                >
+                <i class="fab fa-behance mr-2"></i>Behance
+                </a>
+            </li>
+            <li class="list-inline-item">
+                <a 
+                    class="reset-anchor social-share-link envelope" 
+                    href="mailto:mariaescribemails@gmail.com"
+                >
+                    <i class="fas fa-envelope mr-2"></i>Mail
+                </a>
             </li>
         </ul>
     </div>
