@@ -9,7 +9,7 @@ export default {
     },
     template: `
     <div class="col-lg-5 position-sticky">
-        <h2>Idea</h2>
+        <h2>Concept</h2>
         <p class="text-muted">{{desc}}</p>
         <div class="p-4 bg-light mb-5">
             <ul class="list-unstyled mb-0">
