@@ -15,7 +15,7 @@ export default {
             ></about-skill>
             <about-skill 
                 skill="Web Designer" 
-                desc="Wireframing and prototyping. Created the website structure and the user interface." 
+                desc="Wireframing and prototyping. Create the website structure and the user interface." 
                 svg_icon="#laptop-screen-1"
             ></about-skill>
         </div>
