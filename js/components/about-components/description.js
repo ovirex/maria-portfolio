@@ -13,10 +13,15 @@ export default {
                 <p class="text-muted mb-4">Anyways, let’s work together! Click the icons down below to contact me, looking forward to hearing from you!</p>
                 <ul class="list-inline mb-0">
                     <li class="list-inline-item mr-5 my-2">
-                        <a class="btn btn-primary rounded-pill" href="#">
+                        <a class="btn btn-primary rounded-pill mb-2" href="./assets/MARIA-GABRIELA-PEREZ-CV-ENG.pdf" target="blank">
                             <svg class="svg-icon mr-2 align-middle svg-icon-sm">
                             <use xlink:href="#survey-1"> </use>
-                            </svg><span class="align-middle">Download resume</span>
+                            </svg><span class="align-middle">Download CV ENG</span>
+                        </a>
+                        <a class="btn btn-primary rounded-pill mb-2" href="./assets/MARIA-GABRIELA-PEREZ-CV.pdf" target="blank">
+                            <svg class="svg-icon mr-2 align-middle svg-icon-sm">
+                            <use xlink:href="#survey-1"> </use>
+                            </svg><span class="align-middle">Descargar CV ESP</span>
                         </a>
                     </li>
                     <li class="list-inline-item my-2">
