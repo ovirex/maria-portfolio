@@ -69,10 +69,15 @@
             "tags": [
                 "Art Direction"
             ],
-            "thumbnail": "",
+            "thumbnail": "./img/CAFE-TENTACION/WEB/image1.jpg",
             "images": {
-                "web": [],
-                "rrss": []
+                "web": [
+                    "./img/CAFE-TENTACION/WEB/image1.jpg",
+                    "./img/CAFE-TENTACION/WEB/image2.jpg"
+                ],
+                "rrss": [
+                    "./img/CAFE-TENTACION/RRSS/image1.jpg"
+                ]
             }
         },
         {
@@ -106,9 +111,12 @@
             "tags": [
                 "Web Design"
             ],
-            "thumbnail": "./img/SO-FERRARA/RRSS/image4.jpg",
+            "thumbnail": "./img/LORD-EMPANADAS/WEB/image1.jpg",
             "images": {
-                "web": [],
+                "web": [
+                    "./img/LORD-EMPANADAS/WEB/image1.jpg",
+                    "./img/LORD-EMPANADAS/WEB/image2.jpg"
+                ],
                 "rrss": []
             }
         }
