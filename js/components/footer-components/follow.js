@@ -1,7 +1,7 @@
 export default {
     template: `
     <div class="col-lg-4 mb-4 mb-lg-0">
-        <h2 class="h4 text-white mb-4">Follow me</h2>
+        <h2 class="h4 text-white mb-4">Let's chat!</h2>
         <ul class="list-inline">
             <div class="row text-white text-small">
                 <div class="col-6">
